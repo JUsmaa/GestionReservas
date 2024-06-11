@@ -1,0 +1,508 @@
+body {
+    background-image: url(img/fondoReservas.jpeg);
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+
+
+header {
+    position: relative;
+    display: wrap;
+
+}
+
+.logocontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: -76px;
+    top: -8px;
+
+}
+
+.Ticketcontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: 143px;
+}
+
+.platzicontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    display: flex;
+    display: wrap;
+    left: 123px;
+}
+
+.confamacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -12px;
+    left: 110px;
+}
+
+.campanitacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -9px;
+    left: 134px;
+
+}
+
+.mensajescontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -10px;
+    left: 110px;
+}
+
+.ajustescontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    left: 86px;
+    top: -11px;
+}
+
+.personacontenedor {
+    position: relative;
+    display: flex;
+    display: wrap;
+    top: -11px;
+    left: 60px;
+}
+
+.platzi {
+    position: absolute;
+    left: 804px;
+    top: 28px;
+}
+
+/* ------------------------------------------------------------------------------------- */
+
+
+
+.ejemplocontenedor {
+    position: fixed;
+    left: 12px;
+    top: 125px;
+    border-right: 3px solid rgb(250, 45, 147);
+    width: 208px;
+    height: 666px;
+
+}
+
+
+.ejemplocontenedorcompu1 {
+    position: fixed;
+    top: 180px;
+    left: 29px;
+    border: 2px solid rgb(19, 245, 68);
+}
+
+.Habilitar {
+    position: fixed;
+    top: 310px;
+    left: 65px;
+    color: rgb(5, 5, 5);
+
+}
+
+.ejemplocontenedorcompu2 {
+    position: fixed;
+    top: 370px;
+    left: 29px;
+    border: 2px solid rgb(245, 19, 19);
+}
+
+.Deshabilitar {
+    position: fixed;
+    top: 500px;
+    left: 52px;
+    color: rgb(14, 13, 13);
+
+}
+
+/* -----------------------------------------------------------------------------------************** */
+.containertexsalas {
+    position: absolute;
+    top: 135px;
+    left: 266px;
+    font-size: 42px;
+    color: rgb(34, 32, 32);
+}
+
+.img1 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 263px;
+    top: 223px;
+    border: 2px solid rgb(11, 14, 12);
+
+}
+
+.Habilitar1 {
+    position: absolute;
+    left: 265px;
+    top: 414px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+
+}
+
+.Deshabilitar1 {
+    position: absolute;
+    left: 360px;
+    top: 414px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+
+
+}
+
+.texcon{
+    position: absolute;
+    text-indent: 7px;
+    color: rgb(248, 244, 244);
+}
+
+
+.img2 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 513px;
+    top: 223px;
+    border: 2px solid rgb(11, 14, 12);
+}
+
+.Habilitar2 {
+    position: absolute;
+    left: 515px;
+    top: 414px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+.Deshabilitar2 {
+    position: absolute;
+    left: 610px;
+    top: 414px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+.img3 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 763px;
+    top: 223px;
+    border: 2px solid rgb(11, 14, 12);
+}
+.Habilitar3 {
+    position: absolute;
+    left: 765px;
+    top: 414px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+
+
+.Deshabilitar3 {
+    position: absolute;
+    left: 860px;
+    top: 414px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+
+.img4 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 1012px;
+    top: 223px;
+    border: 2px solid rgb(11, 14, 12);
+}
+.Habilitar4 {
+    position: absolute;
+    left: 1015px;
+    top: 414px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+
+
+.Deshabilitar4 {
+    position: absolute;
+    left: 1110px;
+    top: 414px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+/* -------------------------------------------------------------- */
+
+.img5 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 263px;
+    top: 483px;
+    border: 2px solid rgb(11, 14, 12);
+
+}
+
+.Habilitar5 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 265px;
+    top: 674px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+
+}
+
+.Deshabilitar5 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 360px;
+    top: 674px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+
+
+}
+
+.img6 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 513px;
+    top: 483px;
+    border: 2px solid rgb(11, 14, 12);
+}
+
+.Habilitar6 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 515px;
+    top: 674px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+.Deshabilitar6 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 610px;
+    top: 674px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+.img7 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 763px;
+    top: 483px;
+    border: 2px solid rgb(11, 14, 12);
+}
+.Habilitar7 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 765px;
+    top: 674px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+
+
+.Deshabilitar7 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 860px;
+    top: 674px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+.img8 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 1012px;
+    top: 483px;
+    border: 2px solid rgb(11, 14, 12);
+}
+.Habilitar8 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 1015px;
+    top: 674px;
+    font-size: 15px;
+    width: 85px;
+    height: 25px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(19, 245, 68);
+    
+}
+
+
+
+.Deshabilitar8 {
+    position: absolute;
+    display: flex;
+    display: wrap;
+    left: 1110px;
+    top: 674px;
+    width: 99px;
+    height: 25px;
+    font-size: 14px;
+    border: 1px solid rgb(17, 16, 16);
+    border-radius: 8px;
+    background-color: rgb(245, 19, 19) ;
+}
+
+.piePaginacontenedorAdm{
+    position: absolute;
+    left: 284px;
+    top: 774px;
+}
+
+
+.Habilitar1:hover {
+    transform: scale(1.1);
+}
+.Habilitar2:hover {
+    transform: scale(1.1);
+}
+.Habilitar3:hover {
+    transform: scale(1.1);
+}
+.Habilitar4:hover {
+    transform: scale(1.1);
+}
+.Habilitar5:hover {
+    transform: scale(1.1);
+}
+.Habilitar6:hover {
+    transform: scale(1.1);
+}
+.Habilitar7:hover {
+    transform: scale(1.1);
+}
+.Habilitar8:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar1:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar2:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar3:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar4:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar5:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar6:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar7:hover {
+    transform: scale(1.1);
+}
+.Deshabilitar8:hover {
+    transform: scale(1.1);
+}
+
+
